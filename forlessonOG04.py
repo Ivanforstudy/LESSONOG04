@@ -6,3 +6,5 @@ if A > B:
     print("A больше чем B")
 elif B > A:
     print("B больше чем A")
+else:
+     print("A равно B")
